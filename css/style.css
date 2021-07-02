@@ -86,7 +86,7 @@ header, section, footer {
 }
 
 .header__title {
-    margin-top: 25px;
+    margin-top: 10px;
 }
 
 .header__title, .header__subtitle {
@@ -102,7 +102,7 @@ header, section, footer {
 }
 
 .title {
-    margin: 20px 0 10px;
+    margin: 10px 0 10px;
     padding: 0 15px;
     background-color: rgb(12, 12, 12);
 }
@@ -123,6 +123,15 @@ header, section, footer {
 
 .experience__link {
     border-bottom: 1px solid rgb(241, 238, 7);
+}
+
+.footer {
+    display: flex;
+    flex-direction: row;
+}
+
+.footer__logo {
+    margin-left: 40px;
 }
 
 @media (max-width: 900px) {
