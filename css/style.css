@@ -56,7 +56,7 @@ a {
 
 body {
     background-color: #ff6347;
-    background-image: url('./images/bg.jpg');
+    background-image: url('../images/bg.jpg');
     background-repeat: no-repeat;
     background-size: cover;
     font-family: 'Montserrat', sans-serif;
@@ -90,14 +90,14 @@ header, section, footer {
 }
 
 .header__title, .header__subtitle {
-    margin-bottom: 10px; 
+    margin-bottom: 10px;
     padding: 0 20px;
-    background-color: #000;   
+    background-color: #000;
 }
 
 .header__photo {
     display: block;
-    width: 150px; 
+    width: 150px;
     border-radius: 50%;
 }
 
