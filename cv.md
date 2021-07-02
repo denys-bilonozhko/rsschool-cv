@@ -52,11 +52,18 @@ My works from the Beetroot Academy:
 
 - Calculator - A simple calculator built using HTML, CSS and JavaScript
 <br>
-<i>HTML/SCSS/JS
+<i>HTML/SCSS/JS</i>
 <br>
 [Preview](https://denys-bilonozhko.github.io/js-calculator/)
 <br>
 [Code](https://github.com/denys-bilonozhko/js-calculator)
+<br>
+
+<br>
+
+## English Level
+<i>B1</i>
+
 <br>
 
 ## Education
